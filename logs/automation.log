@@ -1,0 +1,45 @@
+11:26:35.527 [main] INFO  testBase.TC001_AccountRegistraionTest -  ***Starting  TC001_AccountRegistraionTest *** 
+11:26:35.745 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on MyAccount
+11:26:36.216 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on Regtistration
+11:26:36.222 [main] INFO  testBase.TC001_AccountRegistraionTest - Providing the customer info....
+11:26:38.535 [main] INFO  testBase.TC001_AccountRegistraionTest - validating expected msg
+11:26:38.626 [main] ERROR testBase.TC001_AccountRegistraionTest - Test failed 
+11:26:38.627 [main] DEBUG testBase.TC001_AccountRegistraionTest - Debug logs...
+11:28:01.726 [main] INFO  testBase.TC001_AccountRegistraionTest -  ***Starting  TC001_AccountRegistraionTest *** 
+11:28:01.967 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on MyAccount
+11:28:02.409 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on Regtistration
+11:28:02.412 [main] INFO  testBase.TC001_AccountRegistraionTest - Providing the customer info....
+11:28:04.491 [main] INFO  testBase.TC001_AccountRegistraionTest - validating expected msg
+11:28:04.569 [main] INFO  testBase.TC001_AccountRegistraionTest -  *** TC001_AccountRegistraionTest finished*** 
+11:29:36.373 [main] INFO  testBase.TC001_AccountRegistraionTest -  ***Starting  TC001_AccountRegistraionTest *** 
+11:29:36.598 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on MyAccount
+11:29:37.010 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on Regtistration
+11:29:37.015 [main] INFO  testBase.TC001_AccountRegistraionTest - Providing the customer info....
+11:29:39.144 [main] INFO  testBase.TC001_AccountRegistraionTest - validating expected msg
+11:29:39.234 [main] ERROR testBase.TC001_AccountRegistraionTest - Test failed 
+11:29:39.235 [main] DEBUG testBase.TC001_AccountRegistraionTest - Debug logs...
+11:50:39.139 [main] INFO  testBase.TC001_AccountRegistraionTest -  ***Starting  TC001_AccountRegistraionTest *** 
+11:50:39.257 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on MyAccount
+11:50:39.523 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on Regtistration
+11:50:39.526 [main] INFO  testBase.TC001_AccountRegistraionTest - Providing the customer info....
+11:50:41.231 [main] INFO  testBase.TC001_AccountRegistraionTest - validating expected msg
+11:50:41.267 [main] ERROR testBase.TC001_AccountRegistraionTest - Test failed 
+11:50:41.269 [main] DEBUG testBase.TC001_AccountRegistraionTest - Debug logs...
+11:51:48.768 [main] INFO  testBase.TC001_AccountRegistraionTest -  ***Starting  TC001_AccountRegistraionTest *** 
+11:51:48.885 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on MyAccount
+11:51:49.219 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on Regtistration
+11:51:49.222 [main] INFO  testBase.TC001_AccountRegistraionTest - Providing the customer info....
+11:51:49.787 [main] INFO  testBase.TC001_AccountRegistraionTest - validating expected msg
+11:51:50.614 [main] INFO  testBase.TC001_AccountRegistraionTest -  *** TC001_AccountRegistraionTest finished*** 
+11:56:28.451 [main] INFO  testBase.TC001_AccountRegistraionTest -  ***Starting  TC001_AccountRegistraionTest *** 
+11:56:28.576 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on MyAccount
+11:56:28.885 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on Regtistration
+11:56:28.888 [main] INFO  testBase.TC001_AccountRegistraionTest - Providing the customer info....
+11:56:30.479 [main] INFO  testBase.TC001_AccountRegistraionTest - validating expected msg
+11:56:30.516 [main] INFO  testBase.TC001_AccountRegistraionTest -  *** TC001_AccountRegistraionTest finished*** 
+11:56:50.367 [main] INFO  testBase.TC001_AccountRegistraionTest -  ***Starting  TC001_AccountRegistraionTest *** 
+11:56:50.462 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on MyAccount
+11:56:50.788 [main] INFO  testBase.TC001_AccountRegistraionTest - clicked on Regtistration
+11:56:50.789 [main] INFO  testBase.TC001_AccountRegistraionTest - Providing the customer info....
+11:56:53.051 [main] INFO  testBase.TC001_AccountRegistraionTest - validating expected msg
+11:56:53.083 [main] INFO  testBase.TC001_AccountRegistraionTest -  *** TC001_AccountRegistraionTest finished*** 
