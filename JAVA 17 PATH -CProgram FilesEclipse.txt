@@ -1,0 +1,1 @@
+JAVA 17 PATH -C:\Program Files\Eclipse Adoptium
