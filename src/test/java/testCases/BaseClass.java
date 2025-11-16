@@ -29,6 +29,7 @@ public class BaseClass {
 	public Properties p;
 	public static WebDriver driver;
 	public Logger logger;
+
 	
 	@BeforeClass(groups= {"Sanity","Regression","Master"})
 	@Parameters({"os","Browser"})
